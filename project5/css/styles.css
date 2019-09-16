@@ -21,13 +21,13 @@ img {
 }
 
 p{
-    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-family: 'Goudy Old Style','Garamond','Big Caslon','Times New Roman','serif';
     color:black;
     margin: 25px;
     }
 
 li{
-    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+    font-family: 'Goudy Old Style','Garamond','Big Caslon','Times New Roman','serif';
     color:darkred;
     line-height: 1.5;}
 
