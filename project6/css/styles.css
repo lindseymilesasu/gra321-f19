@@ -140,6 +140,12 @@ h5{
     color: #e2a296;
 }
 
+img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
 .address{
     font-weight: 700;
     font-style: normal;
