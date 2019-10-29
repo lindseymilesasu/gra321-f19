@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-    font-size: 16pt;   
+    font-size: 24pt;   
     width: 100%; 
     text-align: center;
     color: #045f71;
@@ -20,12 +20,12 @@ h1 {
 }
 
 h3{
-    font-size: 12pt;
+    font-size: 16pt;
     font-weight: 700;
     font-style: normal;
     width: 100%;
     text-align: center;
-    color: #f1b2a3;
+    color: #e2a296;
 }
 
 .hotbev{
@@ -54,6 +54,15 @@ ul{
     margin: 0;
 }
 
+p{
+   font-family: sofia-pro, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 12pt;
+    color: #513928;
+    text-align: center; 
+}
+
 li{
     font-family: sofia-pro, sans-serif;
     font-weight: 400;
@@ -61,6 +70,16 @@ li{
     font-size: 12pt;
     color: #513928;
     text-align: center;
+}
+
+.additions{
+    font-weight: 700;
+    font-style: normal;
+    font-size:12pt;
+    letter-spacing: 3px;
+    width: 100%;
+    text-align: center;
+    color: #aa7b5b;
 }
 
 .other{ 
@@ -74,12 +93,12 @@ li{
 }
 
 h4{
-    font-size: 12pt;
+    font-size: 16pt;
     font-weight: 700;
     font-style: normal;
     width: 100%;
     text-align: center;
-    color: #f1b2a3;
+    color: #e2a296;
 }
 
 .paninis{
@@ -113,21 +132,12 @@ h4{
 }
 
 h5{
-    font-size: 12pt;
+    font-size: 16pt;
     font-weight: 700;
     font-style: normal;
     width: 100%;
     text-align: center;
-    color: #f1b2a3;
-}
-
-h6{
-    font-size: 12pt;
-    font-weight: 700;
-    font-style: normal;
-    width: 100%;
-    text-align: center;
-    color: #f1b2a3;
+    color: #e2a296;
 }
 
 .address{
