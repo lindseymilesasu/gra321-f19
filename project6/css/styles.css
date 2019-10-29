@@ -1,0 +1,141 @@
+
+body {
+  font-family: sofia-pro, sans-serif;
+  background-color: #f7f1eb;
+}
+
+h1 {
+    font-size: 16pt;   
+    width: 100%; 
+    text-align: center;
+    color: #045f71;
+}
+.happy {
+    font-weight: 700;
+    font-style: italic;
+    font-size: 10pt;  
+    width: 100%; 
+    text-align: center;
+    color: #e07b4b;
+}
+
+h3{
+    font-size: 12pt;
+    font-weight: 700;
+    font-style: normal;
+    width: 100%;
+    text-align: center;
+    color: #f1b2a3;
+}
+
+.hotbev{
+    font-weight: 700;
+    font-style: normal;
+    font-size:12pt;
+    letter-spacing: 3px;
+    width: 100%;
+    text-align: center;
+    color: #aa7b5b;
+}
+
+.iced{ 
+    font-weight: 700;
+    font-style: normal;
+    font-size:12pt;
+    letter-spacing: 3px;
+    width: 100%;
+    text-align: center;
+    color: #aa7b5b;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    font-family: sofia-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12pt;
+    color: #513928;
+    text-align: center;
+}
+
+.other{ 
+    font-weight: 700;
+    font-style: normal;
+    font-size:12pt;
+    letter-spacing: 3px;
+    width: 100%;
+    text-align: center;
+    color: #aa7b5b;
+}
+
+h4{
+    font-size: 12pt;
+    font-weight: 700;
+    font-style: normal;
+    width: 100%;
+    text-align: center;
+    color: #f1b2a3;
+}
+
+.paninis{
+    font-weight: 700;
+    font-style: normal;
+    font-size:12pt;
+    letter-spacing: 3px;
+    width: 100%;
+    text-align: center;
+    color: #aa7b5b;  
+}
+
+.pastries{
+    font-weight: 700;
+    font-style: normal;
+    font-size:12pt;
+    letter-spacing: 3px;
+    width: 100%;
+    text-align: center;
+    color: #aa7b5b;  
+}
+
+.other{
+    font-weight: 700;
+    font-style: normal;
+    font-size:12pt;
+    letter-spacing: 3px;
+    width: 100%;
+    text-align: center;
+    color: #aa7b5b;  
+}
+
+h5{
+    font-size: 12pt;
+    font-weight: 700;
+    font-style: normal;
+    width: 100%;
+    text-align: center;
+    color: #f1b2a3;
+}
+
+h6{
+    font-size: 12pt;
+    font-weight: 700;
+    font-style: normal;
+    width: 100%;
+    text-align: center;
+    color: #f1b2a3;
+}
+
+.address{
+    font-weight: 700;
+    font-style: normal;
+    font-size:12pt;
+    letter-spacing: 3px;
+    width: 100%;
+    text-align: center;
+    color: #aa7b5b;  
+}
