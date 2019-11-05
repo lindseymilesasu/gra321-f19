@@ -32,11 +32,12 @@ h3{
 .hotbev{
     font-weight: 700;
     font-style: normal;
-    font-size:12pt;
+    font-size:16pt;
     letter-spacing: 3px;
     width: 100%;
     text-align: center;
     color: #aa7b5b;
+    margin-top: 20pt;
 }
 
 .bev{
@@ -62,7 +63,7 @@ h3{
 .iced{ 
     font-weight: 700;
     font-style: normal;
-    font-size:12pt;
+    font-size:16pt;
     letter-spacing: 3px;
     width: 100%;
     text-align: center;
@@ -96,7 +97,7 @@ li{
 .additions{
     font-weight: 700;
     font-style: normal;
-    font-size:12pt;
+    font-size:16pt;
     letter-spacing: 3px;
     width: 100%;
     text-align: center;
@@ -125,7 +126,7 @@ h4{
 .paninis{
     font-weight: 700;
     font-style: normal;
-    font-size:12pt;
+    font-size:16pt;
     letter-spacing: 3px;
     width: 100%;
     text-align: center;
@@ -135,7 +136,7 @@ h4{
 .pastries{
     font-weight: 700;
     font-style: normal;
-    font-size:12pt;
+    font-size:16pt;
     letter-spacing: 3px;
     width: 100%;
     text-align: center;
@@ -145,7 +146,7 @@ h4{
 .other{
     font-weight: 700;
     font-style: normal;
-    font-size:12pt;
+    font-size:16pt;
     letter-spacing: 3px;
     width: 100%;
     text-align: center;
@@ -158,9 +159,16 @@ h4{
     margin-bottom: 30pt;
 }
 
+.otherfood{
+    
+     text-align: center;
+    padding: 20x;
+    margin-bottom: 10pt;
+    
+}
 .otherfoods{
     text-align: center;
-    padding: 20x;
+    padding: 10pt;
 }
 
 h5{
@@ -188,7 +196,7 @@ iframe {
 .address{
     font-weight: 700;
     font-style: normal;
-    font-size:12pt;
+    font-size:16pt;
     letter-spacing: 3px;
     width: 100%;
     text-align: center;
