@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-    font-size: 24pt;   
+    font-size: 36pt;   
     width: 100%; 
     text-align: center;
     color: #045f71;
@@ -13,7 +13,7 @@ h1 {
 .happy {
     font-weight: 700;
     font-style: italic;
-    font-size: 10pt;  
+    font-size: 20pt;  
     letter-spacing: 3px;
     width: 100%; 
     text-align: center;
@@ -37,6 +37,26 @@ h3{
     width: 100%;
     text-align: center;
     color: #aa7b5b;
+}
+
+.bev{
+    font-weight: 700;
+    text-align: center;
+    padding: 20x;
+    margin-top: 30pt;
+}
+
+.tea{
+    color:#e2a296;
+    font-size: 10pt;
+    text-align: center;
+}
+
+.teaend{
+     color:#e2a296;
+     font-size: 10pt;
+     text-align: center;
+     margin-bottom: 30pt;
 }
 
 .iced{ 
@@ -132,6 +152,17 @@ h4{
     color: #aa7b5b;  
 }
 
+.otherbev{
+    text-align: center;
+    padding: 20x;
+    margin-bottom: 30pt;
+}
+
+.otherfoods{
+    text-align: center;
+    padding: 20x;
+}
+
 h5{
     font-size: 16pt;
     font-weight: 700;
@@ -146,6 +177,13 @@ img {
     display: block;
     margin: 0 auto 0 auto;
 }
+
+iframe {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
 
 .address{
     font-weight: 700;
